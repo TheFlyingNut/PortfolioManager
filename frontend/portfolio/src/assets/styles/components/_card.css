@@ -1,0 +1,29 @@
+.card {
+  border-radius: 0.5rem;
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.card-border {
+  border-width: 1px;
+  --tw-border-opacity: 1;
+  border-color: rgb(229 231 235 / var(--tw-border-opacity));
+}
+
+:is(.dark .card-border) {
+  --tw-border-opacity: 1;
+  border-color: rgb(75 85 99 / var(--tw-border-opacity));
+}
+
+:is(.dark .card) {
+  --tw-bg-opacity: 1;
+  background-color: rgb(31 41 55 / var(--tw-bg-opacity));
+}
+
+.card-gutterless {
+  padding: 0;
+}
+
+.card-body {
+  padding: 1.25rem;
+}
