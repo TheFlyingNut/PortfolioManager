@@ -1,6 +1,4 @@
 # Codeshastra_Tabs_Not_Spaces
-<<<<<<< HEAD
-kartik testing
 =======
 ---
 # **PORTFOLIO MANAGEMENT PLATFORM**
