@@ -182,5 +182,10 @@ a
 
 # Feel free to explore the platform, interact with its features. Enjoy managing your investment portfolio effectively! 📈💼
 ---
+![image](https://github.com/TheFlyingNut/PortfolioManager/assets/132198626/7057bee2-9256-44a6-a8da-dfecbc81e0b8)
+![image](https://github.com/TheFlyingNut/PortfolioManager/assets/132198626/3fb80b0a-5657-4f45-a582-db34b3658cc5)
+![image](https://github.com/TheFlyingNut/PortfolioManager/assets/132198626/fd92aa17-f518-4639-bb96-e0b29834df94)
+
+
 
 >>>>>>> 0ca6e0ca1d913652ca1cb051eb542672f28b2d09
